@@ -33,6 +33,7 @@ module.exports = {
     'import/prefer-default-export': 'off',
     'react/state-in-constructor': 'off',
     'react/static-property-placement': 'off',
-    'no-alert': 'off'
+    'no-alert': 'off',
+    'react/prefer-stateless-function': 'off'
   },
 };
